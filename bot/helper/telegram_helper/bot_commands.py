@@ -1,12 +1,12 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
-        self.MirrorCommand = 'mr'
-        self.UnzipMirrorCommand = 'umr'
+        self.MirrorCommand = 'ma'
+        self.UnzipMirrorCommand = 'uma'
         self.TarMirrorCommand = 'tarmirror'
         self.CancelMirror = 'cancel'
         self.CancelAllCommand = 'cancelall'
-        self.ListCommand = 'romantic'
+        self.ListCommand = 'action'
         self.StatusCommand = 'status'
         self.AuthorizeCommand = 'authorize'
         self.UnAuthorizeCommand = 'unauthorize'
